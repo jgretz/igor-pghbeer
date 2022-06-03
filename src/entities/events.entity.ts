@@ -5,4 +5,7 @@ import {BaseEntity} from '@jgretz/igor-data';
 export class Events extends BaseEntity {
   @Column()
   name: string;
+
+  @Column()
+  date: Date;
 }
