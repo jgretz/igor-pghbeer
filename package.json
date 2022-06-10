@@ -1,6 +1,6 @@
 {
   "name": "@jgretz/igor-pghbeer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "local worker logic to handle pghhbeer",
   "author": "jgretz",
   "license": "MIT",
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@jgretz/igor-data": "^1.0.6",
-    "@jgretz/igor-data-microservice": "^1.0.5",
+    "@jgretz/igor-data-microservice": "^1.0.6",
     "@jgretz/igor-rabbit": "^1.0.10",
     "@jgretz/igor-shared": "^1.0.0",
     "@nestjs/common": "^8.2.6",
